@@ -1,0 +1,36 @@
+[
+  {
+    title: "Nature",
+    images: [
+        'http://eskipaper.com/images/nature-wallpaper-2.jpg',
+        'http://wp.widewallpapers.net/2k/nature/1600x900/nature-wallpaper-1600x900-004.jpg',
+        'http://eskipaper.com/images/nice-wallpaper-2.jpg'
+    ]
+  },
+  {
+    title: "Space",
+    images: [
+        'https://i.pinimg.com/originals/a8/6b/5a/a86b5a3cde9f7f7a11c1d4787d4a29eb.jpg',
+        'https://wallpaperscraft.com/image/space_flight_sky_stars_82970_1600x900.jpg',
+        'https://wallpaperscraft.com/image/solar_eclipse_april_2014_antarctica_australia_indonesia_93004_1600x900.jpg',
+        'https://wallpaperscraft.com/image/planet_rings_sky_space_97576_1600x900.jpg'
+    ]
+  },
+  {
+    title: "City",
+    images: [
+        'https://wallpaperscraft.com/image/tokyo_road_buildings_people_evening_59574_1600x900.jpg',
+        'https://wallpapersite.com/images/pages/pic_w/3858.jpg',
+        'http://hdwpp.net/a/1600x900/g/984/s3/london-theme-ss19.jpg'
+    ]
+  },
+  {
+    title: "Animals",
+    images: [
+        'https://cdn.allwallpaper.in/wallpapers/1600x900/3122/animals-funny-meerkats-1600x900-wallpaper.jpg',
+        'http://www.desktop-background.com/download/1600x900/2011/08/01/243204_funny-dog-wallpapers-wallpapers-cave_2880x1800_h.jpg',
+        'http://data.1freewallpapers.com/detail/laughing-white-seal.jpg',
+        'http://naturewallpaperfree.com/animals-cats/nature-wallpaper-1600x900-2305-f9fd4a33.jpg',
+    ]
+  }
+]
